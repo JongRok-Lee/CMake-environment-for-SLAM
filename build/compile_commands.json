@@ -1,0 +1,12 @@
+[
+{
+  "directory": "/home/jr/SLAM/build",
+  "command": "/usr/bin/g++ -DHAVE_EIGEN -DHAVE_GLEW -DPANGO_DEFAULT_WIN_URI=\\\"x11\\\" -DPROJECT_DIR=\\\"/home/jr/SLAM\\\" -D_LINUX_ -I/home/jr/SLAM/module/include -isystem /home/jr/SLAM/thirdparty/OpenCV/install/include/opencv4 -isystem /home/jr/SLAM/thirdparty/Eigen3/install/include/eigen3 -isystem /home/jr/SLAM/thirdparty/Pangolin/install/include -g -std=gnu++14 -o CMakeFiles/main.dir/examples/W15D3.cpp.o -c /home/jr/SLAM/examples/W15D3.cpp",
+  "file": "/home/jr/SLAM/examples/W15D3.cpp"
+},
+{
+  "directory": "/home/jr/SLAM/build/module",
+  "command": "/usr/bin/g++ -DHAVE_EIGEN -DHAVE_GLEW -DPANGO_DEFAULT_WIN_URI=\\\"x11\\\" -D_LINUX_ -I/home/jr/SLAM/module/include -isystem /home/jr/SLAM/thirdparty/OpenCV/install/include/opencv4 -isystem /home/jr/SLAM/thirdparty/Eigen3/install/include/eigen3 -isystem /home/jr/SLAM/thirdparty/Pangolin/install/include -g -std=gnu++14 -o CMakeFiles/module.dir/src/module.cpp.o -c /home/jr/SLAM/module/src/module.cpp",
+  "file": "/home/jr/SLAM/module/src/module.cpp"
+}
+]
