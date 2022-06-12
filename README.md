@@ -1,4 +1,4 @@
-# CMake environment for SLAM
+# CMake environment for SLAM BackEnd
 > OpenCV, Eigen3, Pangolin built in
 
 # Cmake folder hierarchy
